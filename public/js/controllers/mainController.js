@@ -9,7 +9,7 @@ angular.module('projectOne')
         // Request definition
         var req = {
             method: 'GET',
-            url: 'https://cse5335-asa8284.herokuapp.com/getLocations',
+            url: 'https://cse5335-asa8284.herokuapp.com/getData',
             headers: {
                 'Content-Type': 'application/json'
             }
